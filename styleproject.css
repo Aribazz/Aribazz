@@ -1,0 +1,168 @@
+#title{
+    background-color:#ff4c68;
+    color: #fff;
+    padding: 3%;
+}
+h1{
+    font-family:"Creepster";
+    font-size: 4.5rem;
+    line-height: 1.5;
+}
+h2{
+    font-family: "creepster";
+    font-size: 3rem;
+    line-height: 1.5;
+    
+    
+}
+.container-fluid{
+    padding: 3% 15% 7%;
+
+}
+
+/*navigation bar*/
+.navbar-brand{
+    font-family: "creepster";
+    font-size: 4rem;
+    line-height: 2.4;
+}
+.nav-item{
+    font-size: 1.2rem;
+    margin: 6px;
+}
+.image-dog{
+    width: 19%;
+    height: 67%;
+    border-radius: 8%;
+    transform: rotate(13deg);
+    position: absolute;
+    margin: 55px;
+    
+}
+
+@media(max-width:1095px){
+    .image-dog{
+        position: static;
+        margin-left: 30px;
+        transform:rotate(0deg);
+        width:50%;
+        padding-top: 50px;
+      
+    }
+.container{
+text-align: center;
+
+}
+
+}
+
+/*feature*/
+#features{
+    padding: 8% 17%;
+    background-color:#fff;
+    position: relative;
+   
+}
+.feature-box{
+    text-align: center;
+    padding: 2%;
+}
+h3{
+    font-family: "creepster";
+    font-size: 2rem;
+}
+
+/*testimonials*/
+#testimonials{
+    text-align: center;
+    background-color: #ef8172;
+    color: #fff;
+}
+.carousel-item{
+    padding: 5% 14%;
+}
+.testimonial-image{
+    width: 12%;
+    border-radius: 100%;
+    
+}
+.icon{
+    color: #ff4c68;
+    padding-bottom: 7%;
+}
+.icon:hover{
+    color: #f27198;
+}
+
+/*press*/
+#press{
+   background-color: #ef8172;
+    text-align: center;
+    padding: 7% 14%;
+    padding-bottom: 5%;
+    
+}
+.press-logo{
+    width:15% ;
+}
+
+/*about me */
+.about-me1{
+    background-color: #ef8172b8;
+    color: white;
+    text-align: center;
+    padding: 7% 2%;
+    margin: 7%;
+    font-size: 102%;
+    font-weight: 700;
+    line-height: 44px;
+
+}
+hr{border-style: dotted none none;
+    width: 80px;
+    border-width: 20PX;
+    border-color:bisque;
+    width: 30%;
+    margin:auto;
+    opacity: 10.25;
+}
+/* pricing*/
+
+#pricing{
+    padding:2%;
+    text-align: center;
+   
+}
+.btn-1{
+    width: 100%;
+}
+
+.pricing-colum{
+    padding: 3% 2%;
+    
+}
+
+/* call to action*/
+#cta{
+    background-color: #ff4c68;
+    text-align: center;
+    padding: 5%;
+   color: #fff;
+   
+}
+.header1{
+    font-size: 4rem;
+    font-weight: 400;
+    padding-bottom: 6%;
+    line-height: 1.7;
+}
+.button{
+    margin: 2%;
+    
+}
+
+/*footer*/
+#footer{
+    padding: 3% 15%;
+    text-align: center;
+}
