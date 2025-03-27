@@ -1,4 +1,2 @@
-I am Ajayi Ariyo, and this marks the inception of my initial portfolio creation. 
-At the moment, I am actively utilizing React to construct websites that boast heightened responsiveness. 
-My aptitude for effective communication and a commendable level of comprehension greatly enhance my collaborative abilities within my team
+Ajayi Ariyo is a Front-End Developer at Blackcyberdigital, skilled in HTML, CSS, JavaScript, React, and WordPress for building highly responsive websites. He has also acquired backend development skills using Python with ALX (Django). Currently, he is working on building an API for a social media platform where users can create, update, and delete posts, follow other users, and view a feed of posts. Ariyo is passionate about expanding his expertise, obtaining certifications, and leveraging his strong communication and comprehension skills to collaborate effectively within teams.
 
